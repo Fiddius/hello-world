@@ -2,4 +2,4 @@
 Just got to say hello!
 
 
-Gotta make a change
+In the business of theatre and am working on a project. Trying to find a clean looking audio visualizer to personify a supercomputer.
